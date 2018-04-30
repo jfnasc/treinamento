@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>treinamento.jsf</groupId>
-    <artifactId>helloworld</artifactId>
+    <artifactId>helloWorld</artifactId>
     <version>1.0</version>
 
-    <name>helloworld</name>
+    <name>helloWorld</name>
     <packaging>war</packaging>
 
     <properties>
