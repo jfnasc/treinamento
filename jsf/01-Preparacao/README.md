@@ -19,14 +19,14 @@ Baixe e instale o Git
 https://git-scm.com/download/win
 
 Para verificar sua instalação acesse o teminal do Cygwin e execute:
-
+```
 $ git --version
-
+```
 O retorno deverá ser algo como:
-
+```
 $ git --version
 git version 2.17.0.windows.1
-
+```
 ## 5. Visual Studio Code
 
 Baixe e instale o Visual Studio Code
